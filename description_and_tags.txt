@@ -1,0 +1,29 @@
+============================================================
+  GITHUB REPOSITORY — DESCRIPTION & TOPICS
+============================================================
+
+DESCRIPTION:
+------------------------------------------------------------
+EaseUS Partition Master — resize, merge, clone, and format partitions on Windows 10/11. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
+
+============================================================
+
+TOPICS / TAGS:
+------------------------------------------------------------
+data-tools
+disk-management
+disk-tools
+easeus
+easeus-partition-master
+easeus-partition-master-2026
+easeus-partition-master-download
+merge-partition
+partition-manager
+resize-partition
+windows-tools-2026
+
+============================================================
+
+SEO KEYWORDS:
+------------------------------------------------------------
+easeus partition master, easeus partition master download, easeus partition master 2026, easeus partition master, easeus partition master download, partition manager, resize partition, merge partition, free software 2026, pc software download
